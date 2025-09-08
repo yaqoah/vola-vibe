@@ -1,0 +1,19 @@
+.env
+main/
+venv/
+mlruns/
+data/*
+!data/.gitignore
+!data/*.dvc
+.pytest_cache/
+.mypy_cache/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
+._*

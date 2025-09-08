@@ -1,0 +1,15 @@
+# Core AI
+langchain==0.3.27
+langchain-openai==0.3.30
+transformers==4.55.2
+torchaudio==2.8.0
+torchvision==0.23.0
+
+# MLOps & Utilities
+mlflow==3.2.0
+dotenv==0.9.9
+pip-chill==1.0.3
+
+# Data & Finance
+newsapi-python==0.2.7
+yfinance==0.2.65
